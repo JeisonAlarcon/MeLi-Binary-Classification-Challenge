@@ -1,0 +1,21 @@
+[project]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Jeison Alarcon",email = "68398794+JeisonAlarcon@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.9,<3.13"
+dependencies = [
+    "pycaret==3.3.2",
+    "kaleido (==0.2.1)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "xgboost (>=2.1.4,<3.0.0)",
+    "lightgbm (>=4.6.0,<5.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

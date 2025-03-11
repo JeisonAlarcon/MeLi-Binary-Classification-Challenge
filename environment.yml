@@ -1,0 +1,7 @@
+name: ML_Binary_Classification
+channels:
+  - defaults
+dependencies:
+  - python==3.9.21
+  - poetry
+prefix: C:\Users\Jason\.conda\envs\ML_Binary_Classification

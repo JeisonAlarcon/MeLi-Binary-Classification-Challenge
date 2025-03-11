@@ -56,7 +56,9 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
+*/Final_Notebook.ipynb
+Final_Model_MercadoLibre.pkl
+*/Copia de MLA_100k_checked_v3.jsonlines
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
